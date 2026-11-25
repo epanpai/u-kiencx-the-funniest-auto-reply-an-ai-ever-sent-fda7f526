@@ -1,0 +1,7 @@
+*-kit/
+*.tar.gz
+*.tgz
+comp.json
+competition.json
+requirements.json
+RULES.txt
